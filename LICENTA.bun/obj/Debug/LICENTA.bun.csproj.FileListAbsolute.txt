@@ -1,0 +1,217 @@
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.AssemblyReference.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.exe.config
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.Form1.resources
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.Properties.Resources.resources
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.GenerateResource.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.CoreCompileInputs.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.exe
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.pdb
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\bin\Debug\LICENTA.bun.exe.config
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\bin\Debug\LICENTA.bun.exe
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy\LICENTA.bun\bin\Debug\LICENTA.bun.pdb
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\bin\Debug\LICENTA.bun.exe.config
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\bin\Debug\LICENTA.bun.exe
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\bin\Debug\LICENTA.bun.pdb
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.AssemblyReference.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.Form1.resources
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.Properties.Resources.resources
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.GenerateResource.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.CoreCompileInputs.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.exe
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.pdb
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.exe.config
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\LICENTA.bun.exe.config
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\LICENTA.bun.exe
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\LICENTA.bun.pdb
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\MimeMapping.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Newtonsoft.Json.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Core.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Functions.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Gotrue.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Postgrest.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Realtime.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Storage.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Buffers.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Memory.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Reactive.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Text.Json.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Threading.Channels.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.ValueTuple.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Websocket.Client.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\MimeMapping.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Newtonsoft.Json.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Core.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Functions.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Gotrue.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Postgrest.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Realtime.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Supabase.Storage.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Buffers.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Memory.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Reactive.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Text.Json.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Threading.Channels.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\System.ValueTuple.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\bin\Debug\Websocket.Client.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.AssemblyReference.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.SuggestedBindingRedirects.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\obj\Debug\LICENTA.bun.exe.config
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\obj\Debug\LICENTA.bun.Form1.resources
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\obj\Debug\LICENTA.bun.Properties.Resources.resources
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.GenerateResource.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.CoreCompileInputs.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\obj\Debug\LICENTA..7C540545.Up2Date
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\obj\Debug\LICENTA.bun.exe
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date\LICENTA.bun\obj\Debug\LICENTA.bun.pdb
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\LICENTA.bun.exe.config
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\LICENTA.bun.exe
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\LICENTA.bun.pdb
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\MimeMapping.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Newtonsoft.Json.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Core.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Functions.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Gotrue.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Postgrest.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Realtime.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Storage.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Buffers.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Memory.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Reactive.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Text.Json.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Threading.Channels.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.ValueTuple.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Websocket.Client.dll
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\MimeMapping.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Newtonsoft.Json.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Core.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Functions.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Gotrue.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Postgrest.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Realtime.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Supabase.Storage.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Buffers.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Memory.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Reactive.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Text.Json.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Threading.Channels.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\System.ValueTuple.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\bin\Debug\Websocket.Client.xml
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.AssemblyReference.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.SuggestedBindingRedirects.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.exe.config
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.Form1.resources
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.Properties.Resources.resources
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.GenerateResource.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.CoreCompileInputs.cache
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\obj\Debug\LICENTA..7C540545.Up2Date
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.exe
+C:\Users\macov\Desktop\Licenta\LICENTA.bun-cu-interfata - Copy - Copy - Copy - Copy_cu_test_de_viteza+baza_de_date - Copy\LICENTA.bun\obj\Debug\LICENTA.bun.pdb
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\LICENTA.bun.exe.config
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\LICENTA.bun.exe
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\LICENTA.bun.pdb
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\MimeMapping.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Newtonsoft.Json.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Core.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Functions.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Gotrue.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Postgrest.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Realtime.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Storage.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Buffers.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Memory.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Reactive.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Text.Json.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Threading.Channels.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.ValueTuple.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Websocket.Client.dll
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\MimeMapping.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Newtonsoft.Json.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Core.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Functions.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Gotrue.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Postgrest.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Realtime.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Supabase.Storage.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Buffers.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Memory.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Reactive.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Text.Json.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Threading.Channels.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\System.ValueTuple.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\bin\Debug\Websocket.Client.xml
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.AssemblyReference.cache
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.SuggestedBindingRedirects.cache
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\obj\Debug\LICENTA.bun.exe.config
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\obj\Debug\LICENTA.bun.Form1.resources
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\obj\Debug\LICENTA.bun.Properties.Resources.resources
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.GenerateResource.cache
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\obj\Debug\LICENTA.bun.csproj.CoreCompileInputs.cache
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\obj\Debug\LICENTA..7C540545.Up2Date
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\obj\Debug\LICENTA.bun.exe
+C:\Users\macov\Desktop\Licenta\LICENTA\LICENTA.bun\obj\Debug\LICENTA.bun.pdb
