@@ -23,7 +23,7 @@ CarTrace este o aplicație desktop de diagnoză auto, dezvoltată în limbajul C
 | | |
 |---|---|
 | **Sistem de operare** | Microsoft Windows 10 / 11 |
-| **Runtime / Framework** | .NET Framework 4.8 |
+| **Framework** | .NET 4.7.2|
 | **Limbaj** | C# 8.0 |
 | **Interfață grafică** | Windows Forms |
 | **Mediu de dezvoltare** | Microsoft Visual Studio 2022 |
@@ -88,7 +88,7 @@ LICENTA.bun/
 
 ### Cerințe prealabile
 
-- **Microsoft Visual Studio 2022** cu componenta „.NET desktop development" și suport pentru .NET Framework 4.8;
+- **Microsoft Visual Studio 2022** cu componenta „.NET desktop development" și suport pentru .NET Framework 4.7.2;
 - Adaptor ELM327 cu Bluetooth, asociat în **Setări Windows → Bluetooth** (sistemul îi alocă automat un port COM virtual, ex. COM7);
 - Vehicul cu contactul pus (poziția ACC sau motorul pornit).
 
