@@ -24,7 +24,7 @@ CarTrace este o aplicație desktop de diagnoză auto, dezvoltată în limbajul C
 |---|---|
 | **Sistem de operare** | Microsoft Windows 10 / 11 |
 | **Framework** | .NET 4.7.2|
-| **Limbaj** | C# 8.0 |
+| **Limbaj** | C# 7.3 |
 | **Interfață grafică** | Windows Forms |
 | **Mediu de dezvoltare** | Microsoft Visual Studio 2022 |
 
